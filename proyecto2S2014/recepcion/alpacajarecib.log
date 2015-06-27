@@ -1,0 +1,16 @@
+0	1	mikroCPIC1618.exe -MSF -DBG -pP16F887 -DL -O11111114 -fo10 -N"C:\Users\Angel\Desktop\recepcion\alpacajarecib.mcppi" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\defs\" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Uses\P16\" -SP"C:\Users\Angel\Desktop\recepcion\" -SP"C:\Archivos de programa\Mikroelektronika\mikroC PRO for PIC\defs\" -SP"C:\Archivos de programa\Mikroelektronika\mikroC PRO for PIC\Uses\P16\" -SP"C:\Documents and Settings\adan\Escritorio\proyectos segundo semestre 2014\comunicaciones 1\recepcion\" "alpacajarecib.c" "__Lib_Math.mcl" "__Lib_MathDouble.mcl" "__Lib_System.mcl" "__Lib_Delays.mcl" "__Lib_UART_c67.mcl"	 
+warning: 0	1501	Specified search path does not exist: 'C:\Archivos de programa\Mikroelektronika\mikroC PRO for PIC\defs'	 
+warning: 0	1501	Specified search path does not exist: 'C:\Archivos de programa\Mikroelektronika\mikroC PRO for PIC\Uses\P16'	 
+warning: 0	1501	Specified search path does not exist: 'C:\Documents and Settings\adan\Escritorio\proyectos segundo semestre 2014\comunicaciones 1\recepcion'	 
+hint: 0	1139	Available RAM: 352 [bytes], Available ROM: 8192 [bytes]	 
+diagnostics: 0	126	All files Preprocessed in 187 ms	 
+diagnostics: 0	122	Compilation Started	alpacajarecib.c
+warning: 21	1509	Generated baud rate is 125000 bps (error = 8.51 percent)	alpacajarecib.c
+diagnostics: 649	123	Compiled Successfully	alpacajarecib.c
+diagnostics: 0	127	All files Compiled in 999 ms	 
+hint: 0	1144	Used RAM (bytes): 18 (5%)  Free RAM (bytes): 334 (95%)	Used RAM (bytes): 18 (5%)  Free RAM (bytes): 334 (95%)
+hint: 0	1144	Used ROM (program words): 1372 (17%)  Free ROM (program words): 6820 (83%)	Used ROM (program words): 1372 (17%)  Free ROM (program words): 6820 (83%)
+diagnostics: 0	125	Project Linked Successfully	alpacajarecib.mcppi
+diagnostics: 0	128	Linked in 31 ms	 
+diagnostics: 0	129	Project 'alpacajarecib.mcppi' completed: 1264 ms	 
+diagnostics: 0	103	Finished successfully: 18 oct 2014, 20:12:54	alpacajarecib.mcppi

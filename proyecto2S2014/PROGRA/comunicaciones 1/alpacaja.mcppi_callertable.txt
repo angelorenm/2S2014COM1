@@ -1,0 +1,6 @@
+main
+	SPI1_Init_Advanced
+	UART1_Init
+	SPI1_Write
+	SPI1_Read
+	UART1_Write

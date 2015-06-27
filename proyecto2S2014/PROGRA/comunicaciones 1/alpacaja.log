@@ -1,0 +1,18 @@
+0	1	mikroCPIC1618.exe -MSF -DBG -pP16F887 -RA -DL -O11111114 -fo20 -N"C:\Documents and Settings\adan\Escritorio\proyectos segundo semestre 2014\comunicaciones 1\alpacaja.mcppi" -SP"C:\Archivos de programa\Mikroelektronika\mikroC PRO for PIC\defs\" -SP"C:\Archivos de programa\Mikroelektronika\mikroC PRO for PIC\Uses\P16\" -SP"C:\Documents and Settings\adan\Escritorio\proyectos segundo semestre 2014\comunicaciones 1\" "alpacaja.c" "__Lib_Math.mcl" "__Lib_MathDouble.mcl" "__Lib_System.mcl" "__Lib_Delays.mcl" "__Lib_SPI_c345.mcl" "__Lib_UART_c67.mcl"	 
+hint: 0	1139	Available RAM: 352 [bytes], Available ROM: 8192 [bytes]	 
+diagnostics: 0	122	Compilation Started	P16F887.c
+diagnostics: 973	123	Compiled Successfully	P16F887.c
+diagnostics: 0	122	Compilation Started	__Lib_Delays.c
+diagnostics: 123	123	Compiled Successfully	__Lib_Delays.c
+diagnostics: 0	126	All files Preprocessed in 109 ms	 
+diagnostics: 0	122	Compilation Started	alpacaja.c
+warning: 16	1509	Generated baud rate is 9615 bps (error = 0.16 percent)	alpacaja.c
+diagnostics: 85	123	Compiled Successfully	alpacaja.c
+hint: 7	1164	Variable 'temp' has been eliminated by optimizer	alpacaja.c
+diagnostics: 0	127	All files Compiled in 47 ms	 
+hint: 0	1144	Used RAM (bytes): 14 (4%)  Free RAM (bytes): 338 (96%)	Used RAM (bytes): 14 (4%)  Free RAM (bytes): 338 (96%)
+hint: 0	1144	Used ROM (program words): 333 (4%)  Free ROM (program words): 7859 (96%)	Used ROM (program words): 333 (4%)  Free ROM (program words): 7859 (96%)
+diagnostics: 0	125	Project Linked Successfully	alpacaja.mcppi
+diagnostics: 0	128	Linked in 94 ms	 
+diagnostics: 0	129	Project 'alpacaja.mcppi' completed: 1141 ms	 
+diagnostics: 0	103	Finished successfully: 05 Sep 2014, 23:02:52	alpacaja.mcppi
